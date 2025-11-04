@@ -1,4 +1,5 @@
 김준기, JKQuantum, https://github.com/QIEclass2025/LadderAndChute
+양준우, Junwoo-3314, https://github.com/Junwoo-3314/-.git
 여인영, 2025311883, iyoe0694, https://github.com/iyoe0694/inyoungyoe
 이지호, izo-104, https://github.com/QIEclass2025/class_9_week.git
 장유진, yjj0066,  https://github.com/yjj0066/gcp.git
