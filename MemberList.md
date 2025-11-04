@@ -1,1 +1,4 @@
-김준기, JKQuantum, https://github.com/QIEclass2025/LadderAndChute
+
+
+조민주, minju0106, https://github.com/minju0106/jominju\_week9
+
